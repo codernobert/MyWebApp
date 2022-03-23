@@ -123,20 +123,20 @@
 </div>
 <div class="boxes">
 <div class="box">
-<div class="topic">HTML</div>
+<div class="topic">JAVA</div>
 <div class="per">90%</div>
 </div>
 <div class="box">
-<div class="topic">CSS</div>
+<div class="topic">SPRINGBOOT and SPRING MICROSERVICES</div>
 <div class="per">80%</div>
 </div>
 <div class="box">
 <div class="topic">JavScript</div>
-<div class="per">70%</div>
+<div class="per">80%</div>
 </div>
 <div class="box">
-<div class="topic">PHP</div>
-<div class="per">60%</div>
+<div class="topic">ORACLE AND MySQL Databases</div>
+<div class="per">80%</div>
 </div>
 </div>
 </div>
@@ -145,50 +145,34 @@
 
 <section class="services" id="services">
 <div class="content">
-<div class="title"><span>My Services</span></div>
+<div class="title"><span>My Projects</span></div>
 <div class="boxes">
+
 <div class="box">
 <div class="icon">
 <i class="fas fa-desktop"></i>
 </div>
-<div class="topic">Web Devlopment</div>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
+<div class="topic">DevOps</div>
+<p>E-Commerce Web Application</p>
 </div>
+
+<div class="box">
+<div class="icon">
+<i class="fas fa-desktop"></i>
+</div>
+<div class="topic">DevOps</div>
+<p>Inventory Management Web Application</p>
+</div>
+
+
 <div class="box">
 <div class="icon">
 <i class="fas fa-paint-brush"></i>
 </div>
-<div class="topic">Graphic Design</div>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
+<div class="topic">DevOps</div>
+<p>Automated Timetable Management System</p>
 </div>
-<div class="box">
-<div class="icon">
-<i class="fas fa-chart-line"></i>
-</div>
-<div class="topic">Digital Marketing</div>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
-</div>
-<div class="box">
-<div class="icon">
-<i class="fab fa-android"></i>
-</div>
-<div class="topic">Icon Design</div>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
-</div>
-<div class="box">
-<div class="icon">
-<i class="fas fa-camera-retro"></i>
-</div>
-<div class="topic">Photography</div>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
-</div>
-<div class="box">
-<div class="icon">
-<i class="fas fa-tablet-alt"></i>
-</div>
-<div class="topic">Apps Devlopment</div>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
-</div>
+
 </div>
 </div>
 </section>
@@ -197,8 +181,7 @@
 <div class="content">
 <div class="title"><span>Contact Me</span></div>
 <div class="text">
-<div class="topic">Have Any Project?</div>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam neque ipsum corrupti dolores, facere numquam voluptate aspernatur sit perferendis qui nisi modi! Recusandae deserunt consequatur voluptatibus alias repellendus nobis eligendi.</p>
+<p> 0758551314 / 0701839432</p>
 <div class="button">
 <button>Let's Chat</button>
 </div>
