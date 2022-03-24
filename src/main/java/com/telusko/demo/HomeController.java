@@ -12,4 +12,12 @@ public class HomeController
 		System.out.println("hi");
 		return "portfolio";
 	}
+    
+    @RequestMapping("cv")
+    public String cv()
+    {
+    	return "cv";
+    }
+    
 }
+

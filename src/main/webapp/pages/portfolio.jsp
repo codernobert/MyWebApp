@@ -5,7 +5,7 @@
   <head>
     <title>My Portfolio</title>
     <meta charset="UTF-8">
-    
+   
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166000335-1"></script>
      <script>
          window.dataLayer = window.dataLayer || [];
@@ -74,7 +74,7 @@
 <div class="title"><span>About Me</span></div>
 <div class="about-details">
 <div class="left">
-<img src="https://lh3.googleusercontent.com/A2S-SlLuD-0Uo4HkyMhSSR6-OZ2kaQAX-Iwk9xelAsVsy0e3uD8BCnC8AqUPTW7A2893kf_x3aZk_hZyACb83k_PnhO8kJ4OfjQ_jYtOt5kVrC-pSFa8Aqe0R-OoZfC3zwp_QkJn4SLr7PU-iRkmvMj4_iiSrDLITzRKZzmij8lVp1rPxxSsRA39j4bczmQiTUuRh0UwdrfKB3Sts9JL2FxNb2jzxV61DU1ZKzgMq2j4WGf0zB8VvU_7wgb45N-z4iTSyTqOQ27CKF-XeYm3uzaZ2pk3CjcPAhsQewvq-m5MFSkMyD9TppePaQM8w5lkIgJn8OWDSDwGp-KX7nRcoenAkU5WpSQhF-Cj8bsmwasclrzQpqyzFYvd6s7OWdRit7Rxpn9iIXMoAh81mtT4UnTiXowzWC7H4PKy1DQaaSz-8-GqboB8b6Mh9kOHfL3kCfS_FmwAlZtyUSU8d5NFJftZ-mItR35-7YuRJ_QEvI-foR7VHGMbXcTmD5Tls-anc-Noa0bGjGs5xNSM3aznmaK69H9KcHA_mwnVUjoxPrbEo9o1O7Ogf78mUeCBTj9xBRmlgIrflOHVGF2Qagpa6Q3H4s2J8m928tHpZJvfCyylcZbTahSuJk2x_7x66FHg4FHslBuaOExmJkqim-FUtW6q7iyOGAPYH68nqqNJ_LXzNh2hSf9-eLPWVXU5PmD2HUhCC0y37gejbRVoHaMsi9SB-0zKLUb4ssokZetHK8_qoVGq17JJJfyv46WXpA=w403-h537-no?authuser=0" alt="">
+<img src="https://i.imgur.com/9h1uspa.jpg">
 </div>
 <div class="right">
 <div class="topic">Building Is My Passion</div>
@@ -240,3 +240,7 @@ for (var i = 0; i < navLinks.length; i++) {
   });
 }
 </script>
+
+
+
+
