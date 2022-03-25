@@ -24,7 +24,7 @@
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="https://www.w3schools.com/w3images/avatar_hat.jpg" style="width:100%" alt="Avatar">
+          <img src="https://i.imgur.com/CrYd517.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
             <h2>Norbert Odayo Okoth</h2>
           </div>
@@ -35,6 +35,9 @@
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>nobertokoth01@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+254758551314</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+254701839432</p>
+          <p><i class="fa fa-linkedin-in fa-fw w3-margin-right w3-large w3-text-teal"></i>
+                 <a href="www.linkedin.com/in/norbert-okoth">LinkedIn</a>
+          </p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>

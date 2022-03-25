@@ -74,7 +74,7 @@
 <div class="title"><span>About Me</span></div>
 <div class="about-details">
 <div class="left">
-<img src="https://i.imgur.com/9h1uspa.jpg">
+<img src="https://i.imgur.com/CrYd517.jpg">
 </div>
 <div class="right">
 <div class="topic">Building Is My Passion</div>
