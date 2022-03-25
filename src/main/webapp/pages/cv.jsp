@@ -36,7 +36,7 @@
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+254758551314</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+254701839432</p>
           <p><i class="fa fa-linkedin-in fa-fw w3-margin-right w3-large w3-text-teal"></i>
-                 <a href="www.linkedin.com/in/norbert-okoth">LinkedIn</a>
+                 <a href="https://ke.linkedin.com/in/norbert-okoth-321325207"><b>LinkedIn</b></a>
           </p>
           <hr>
 
