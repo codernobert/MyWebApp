@@ -96,7 +96,9 @@
       classroom management. Professional who works hard to meet and exceed expectations on a regular basis.
 </p>
 <div class="button">
-<button>Download CV</button>
+<a href="https://norbert-okoth.herokuapp.com/cv">
+   <button>View CV</button>
+</a>
 </div>
 </div>
 </div>
