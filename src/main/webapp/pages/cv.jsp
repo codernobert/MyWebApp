@@ -35,7 +35,7 @@
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>nobertokoth01@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+254758551314</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+254701839432</p>
-          <p><i class="fa fa-linkedin-in fa-fw w3-margin-right w3-large w3-text-teal"></i>
+          <p><i class="fa fa-linkedin w3-hover-opacity"></i>
                  <a href="https://ke.linkedin.com/in/norbert-okoth-321325207"><b>LinkedIn</b></a>
           </p>
           <hr>
